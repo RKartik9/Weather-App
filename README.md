@@ -54,6 +54,6 @@ If you have any questions or suggestions regarding the project, please feel free
 
 ---
 
-Thank you for visiting my portfolio website!
+Thank you for visiting!
 
 
