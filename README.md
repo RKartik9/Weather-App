@@ -26,9 +26,9 @@ This is a weather application built using React.js and Tailwind CSS. It allows u
 This will launch the website locally, usually at http://localhost:3000.
 
 #Technologies Used
-React.js - JavaScript library for building user interfaces
-Tailwind CSS - Utility-first CSS framework
-OpenWeatherMap API - Weather data provider
+- React.js - JavaScript library for building user interfaces
+- Tailwind CSS - Utility-first CSS framework
+- OpenWeatherMap API - Weather data provider
 
 ## Usage
 
